@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'ProfilePrasanth.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'Data Engineer with Seven Years of IT Experience in building, maintaining Data Driven Insights Projects',
+  paragraphTwo: 'Have Experiences across the Azure Data Engineering Stack including but not limited to Azure Databricks, DataFactory, PowerBI, Functions',
+  paragraphThree: 'Involved in early stage beta developments of vNext projects, demonstrating tangible value,early ROI for Business.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'FrictionLessDevices.png',
     title: 'Devices And Insights',
     info: 'Analyse usage pattern of applications,devices by end-users in an Digital First Organization.',
     info2: ' Provide Insights to provide frictionless usage of IT Devices and Application, accelerating the Digital Transformation ',
@@ -92,7 +92,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/preshi',
     },
   ],
 };
