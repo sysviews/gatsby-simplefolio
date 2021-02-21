@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hello, my name is',
+  title: 'Hello, I am',
   name: 'Prasanth',
   subtitle: 'Data Engineer,Digital Plumber,Assistant Consultant @ TCS',
   cta: '',
@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'ActionableInsights.png',
     title: 'Data Management Platform',
     info: 'Build Framework to automate the processes of Data Ingestion, Processing and Metric Generation. Reduce the Time on Data Engineering',
     info2: '',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'CDM.jpg',
     title: 'Channel Data Management',
     info: 'Simplify the process of Field Sales Invoices and identify ways for accurate reporting,bridging gap between Sales and Finance Teams.',
     info2: '',
@@ -55,7 +55,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'BotExperiences.png',
     title: 'Bot Experiences',
     info: 'Automating End User Queries using technologies like BotFramework,Microsoft LUIS.Build Self-Service ChatBuilder with capabilities to build ChatBots without IT Support by End User',
     info2: '',
