@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Devices And Insights',
     info: 'Analyse usage pattern of applications,devices by end-users in an Digital First Organization.',
-    info2: ' Provide Insights to provide safe on-boarding and ',
+    info2: ' Provide Insights to provide frictionless usage of IT Devices and Application, accelerating the Digital Transformation ',
     url: 'https://www.microsoft.com/en-us/itshowcase/reducing-friction-throughout-the-device-lifecycle-at-microsoft',
     repo: '', // if no repo, the button will not show up
   },
@@ -59,7 +59,7 @@ export const projectsData = [
     title: 'Bot Experiences',
     info: 'Automating End User Queries using technologies like BotFramework,Microsoft LUIS.Build Self-Service ChatBuilder with capabilities to build ChatBots without IT Support by End User',
     info2: '',
-    url: 
+    url: '',
     repo: '', // if no repo, the button will not show up
   },
 ];
