@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Prasanth',
-  subtitle: 'Assistant Consultant @ TCS',
+  subtitle: 'Data Engineer,Digital Plumber,Assistant Consultant @ TCS',
   cta: '',
 };
 
@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'ProfilePrasanth.jpg',
   paragraphOne: 'Data Engineer with Seven Years of IT Experience in building, maintaining Data Driven Insights Projects',
   paragraphTwo: 'Have Experiences across the Azure Data Engineering Stack including but not limited to Azure Databricks, DataFactory, PowerBI, Functions',
-  paragraphThree: 'Involved in early stage beta developments of vNext projects, demonstrating tangible value,early ROI for Business.',
+  paragraphThree: 'Involved in early stage beta developments of vNext projects, demonstrating tangible value,early ROI for Business.I love to learn about how things work, whether that be studying coding practices, engineering techniques, or data engineering methods.Much of my experience revolves around building early stage Digital Transformation Projects on latest Microsoft Azure Stack.I work on Projects adopting Technology to solve tedious business processes. Most of the projects I worked are in Data Analytics and Insights domain.I also strive to gain a deeper understanding of the world which helps for maturing ones conscience.',
   resume: '', // if no resume, the button will not show up
 };
 
